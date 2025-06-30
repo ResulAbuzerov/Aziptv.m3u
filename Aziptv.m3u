@@ -25,10 +25,10 @@ http://
 https://yayin2.canlitv.fun/live/xezertv.stream/chunklist_w189723232.m3u8?hash=9ae88cfa8657d9dcfd70651f0ce4703f
 
 #EXTINF:-1, ARB TV
-http://
+http://flussonic.izone.az:80/arb/mono.m3u8
 
 #EXTINF:-1, ARB 24
-http://
+http://flussonic.izone.az:80/arb24/mono.m3u8
 
 #EXTINF:-1, ARB Günəş
 https://str.yodacdn.net/arbgunesh/tracks-v1a1/mono.ts.m3u8?token=26300e931508b2db6b1b2422e5de582aff8c5f19-8a99ba6fdac4cd6a9c5340f01b4b7ff5-1751321850-1751311050
@@ -76,7 +76,7 @@ http://
 http://
 
 #EXTINF:-1, Kanal-S
-http://
+https://proxy.canlitvplayer.com/str.yodacdn.net/start/mono.m3u8?token=ae629d5ff1b5b708bd526f4efd93c2755c3a8780-ee4dc7a99ec370867
 
 #EXTINF:-1, Kəpəz TV
 http://
