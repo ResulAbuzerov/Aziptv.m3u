@@ -52,7 +52,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/1050/index.m3u8
 http://
 
 #EXTINF:-1, APA TV
-http://
+http://rtmp.apa.tv/@pagroup!23.m3u8
 
 #EXTINF:-1, Flux TV
 https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
@@ -79,7 +79,7 @@ https://str.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8?token=42e4ed7f209ab3074
 https://proxy.canlitvplayer.com/str.yodacdn.net/start/mono.m3u8?token=ae629d5ff1b5b708bd526f4efd93c2755c3a8780-ee4dc7a99ec370867
 
 #EXTINF:-1, Kepez TV
-http://85.132.78.122:8050/dashjs/stream/index.mpd
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
 
 #EXTINF:-1, Qafqaz TV
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563743&extension=m3u8
@@ -117,14 +117,14 @@ https://a8.radyotelekom.com.tr:3620/hybrid/play.m3u8
 #EXTINF:-1, Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 
-#EXTINF:-1, Səhənd TV
-http://
+#EXTINF:-1, İsmayıllı TV
+https://cdn4.yayin.com.tr/ismayillitv/video.m3u8
 
 #EXTINF:-1, Mega TV
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 
 #EXTINF:-1, TMB TV
-http://
+http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
 #EXTINF:-1, Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
