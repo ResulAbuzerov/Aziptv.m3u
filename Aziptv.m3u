@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",AzTv
+#EXTINF:-1,
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",AzTv
 https://str2.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=767f576c47cbe78fa860fc5b66129889e3504a32-c9efcfc932255bb2854fc38aa1c43436-1751313202000000-1751302402000
 
 #EXTINF:-1, İctimai TV
