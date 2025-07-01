@@ -82,7 +82,7 @@ https://proxy.canlitvplayer.com/str.yodacdn.net/start/mono.m3u8?token=ae629d5ff1
 http://85.132.78.122:8050/dashjs/stream/index.mpd
 
 #EXTINF:-1, Qafqaz TV
-https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8?token=3aab93e598f988d9302c26f510640c8c57daa687-606dfb7073e691039bde21da2641fb94-1751323328-1751312528
+http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563743&extension=m3u8
 
 #EXTINF:-1, Kinostar HD
 https://a8.radyotelekom.com.tr:3445/stream/play.m3u8
@@ -129,8 +129,8 @@ http://
 #EXTINF:-1, Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
 
-#EXTINF:-1, Dünya TV
-http://
+#EXTINF:-1, Könül TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 
 #EXTINF:-1, AzStar 
 http://stream.tvcdn.net/azerbaycan/az-star-tv.m3u8
@@ -181,5 +181,5 @@ http://
 http://
 
 #EXTINF:-1, Səhiyyə TV
-http://
+http://stream.tvcdn.net/azerbaycan/sehiyye-tv.m3u8
 
