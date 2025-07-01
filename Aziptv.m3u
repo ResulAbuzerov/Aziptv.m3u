@@ -72,8 +72,8 @@ http://
 #EXTINF:-1, GünAz TV
 https://2meet.az/live/livestream.flv
 
-#EXTINF:-1, Kanal 35 (Naxçıvan)
-http://
+#EXTINF:-1, Kanal 35
+https://str.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8?token=42e4ed7f209ab307485cbc308ff4b7e2a9fbc966-e304b84362ae826a584e43fa0416a9ef-1751367581-1751356781
 
 #EXTINF:-1, Kanal-S
 https://proxy.canlitvplayer.com/str.yodacdn.net/start/mono.m3u8?token=ae629d5ff1b5b708bd526f4efd93c2755c3a8780-ee4dc7a99ec370867
