@@ -82,7 +82,7 @@ https://proxy.canlitvplayer.com/str.yodacdn.net/start/mono.m3u8?token=ae629d5ff1
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 
 #EXTINF:-1, Qafqaz TV
-http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563743&extension=m3u8
+https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8?token=d624c4150a3bc78c6ce798e612ae096eb73e827d-1e00921ba532c731eed273cea7a4c4ba-1751376180-1751365380
 
 #EXTINF:-1, Kinostar HD
 https://a8.radyotelekom.com.tr:3445/stream/play.m3u8
