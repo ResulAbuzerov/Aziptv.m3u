@@ -33,153 +33,153 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2188/index.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ARB Güneş
 http://flussonic.izone.az:80/arbgunesh/mono.m3u8
 
-#EXTINF:-1, ATV Cinema AZ
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ATV Cinema AZ
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2120/index.m3u8
 
-#EXTINF:-1, Show plus tv
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Show plus tv
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16067/index.m3u8
 
-#EXTINF:-1, Dunya TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Dunya TV
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2192/index.m3u8
 
-#EXTINF:-1, Real TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Real TV
 http://
 
-#EXTINF:-1, CBC TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", CBC TV
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/1050/index.m3u8
 
-#EXTINF:-1, CBC Sport
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", CBC Sport
 http://
 
-#EXTINF:-1, APA TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
 
-#EXTINF:-1, Flux TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Flux TV
 https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 
-#EXTINF:-1, Esma TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Esma TV
 https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 
-#EXTINF:-1, Movies new az
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Movies new az
 https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
 
-#EXTINF:-1, EL TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", EL TV
 https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 
-#EXTINF:-1, Gence TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Gence TV
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 
-#EXTINF:-1, GünAz TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", GünAz TV
 https://2meet.az/live/livestream.flv
 
-#EXTINF:-1, Kanal 35
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kanal 35
 https://str.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8?token=42e4ed7f209ab307485cbc308ff4b7e2a9fbc966-e304b84362ae826a584e43fa0416a9ef-1751367581-1751356781
 
-#EXTINF:-1, Kanal-S
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kanal-S
 https://proxy.canlitvplayer.com/str.yodacdn.net/start/mono.m3u8?token=ae629d5ff1b5b708bd526f4efd93c2755c3a8780-ee4dc7a99ec370867
 
-#EXTINF:-1, Kepez TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kepez TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 
-#EXTINF:-1, Qafqaz TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Qafqaz TV
 https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8?token=d624c4150a3bc78c6ce798e612ae096eb73e827d-1e00921ba532c731eed273cea7a4c4ba-1751376180-1751365380
 
-#EXTINF:-1, Kinostar HD
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kinostar HD
 https://a8.radyotelekom.com.tr:3445/stream/play.m3u8
 
-#EXTINF:-1, HTV sinema
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", HTV sinema
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/vipcinema/playlist.m3u8
 
-#EXTINF:-1, HTV Azerbaycan
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", HTV Azerbaycan
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/muzikvip/playlist.m3u8
 
-#EXTINF:-1, Sirius
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Sirius
 http://195.9.195.3:8080/hls/211270.m3u8
 
-#EXTINF:-1, SDM TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", SDM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, MTV Azerbaijan
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", MTV Azerbaijan
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2191/index.m3u8
 
-#EXTINF:-1, Naxçıvan TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Naxçıvan TV
 https://str1.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8?token=8964e3baaafb6037ecafadfd161b05d3a2671fc8-86ce08e026794daa2a72773e7fa75f7d-1751323241-1751312441
 
-#EXTINF:-1, Ulduz TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Ulduz TV
 https://ip240.avrupatelekom.com:3153/stream/play.m3u8
 
-#EXTINF:-1, Sahar TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Sahar TV
 http://
 
-#EXTINF:-1, TV7
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", TV7
 https://a8.radyotelekom.com.tr:3620/hybrid/play.m3u8
 
-#EXTINF:-1, Ayaz TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 
-#EXTINF:-1, İsmayıllı TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", İsmayıllı TV
 https://cdn4.yayin.com.tr/ismayillitv/video.m3u8
 
-#EXTINF:-1, Mega TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Mega TV
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 
-#EXTINF:-1, TMB TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", TMB TV
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1, Live TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
 
-#EXTINF:-1, Könül TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Könül TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 
-#EXTINF:-1, AzStar 
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", AzStar 
 https://live.livestreamtv.ca/azstar/amlst:azstar/chunklist_w1024525277_b2096000.m3u8
 
-#EXTINF:-1, Baku TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Baku TV
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16047/index.m3u8
 
-#EXTINF:-1, FTV TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", FTV TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 
-#EXTINF:-1, ABA TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ABA TV
 http://
 
-#EXTINF:-1, ANS TV (artıq fəaliyyət göstərmir)
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ANS TV (artıq fəaliyyət göstərmir)
 http://
 
-#EXTINF:-1, Dalğa TV (artıq fəaliyyət göstərmir)
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Dalğa TV (artıq fəaliyyət göstərmir)
 http://
 
-#EXTINF:-1, ses tv
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ses tv
 http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
 
-#EXTINF:-1, Azad söz TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Azad söz TV
 http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
 
-#EXTINF:-1, Inter FC TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Inter FC TV
 http://
 
-#EXTINF:-1, TV Tibb
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", TV Tibb
 http://
 
-#EXTINF:-1, Heydarbaba TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Heydarbaba TV
 http://
 
-#EXTINF:-1, Obyektiv TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Obyektiv TV
 http://
 
-#EXTINF:-1, Reaksiya TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Reaksiya TV
 http://
 
-#EXTINF:-1, Alvin Channel TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Alvin Channel TV
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1251196011.m3u8
 
-#EXTINF:-1, Media Türk TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Media Türk TV
 http://
 
-#EXTINF:-1, 114 TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", 114 TV
 http://
 
-#EXTINF:-1, Səhiyyə TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Səhiyyə TV
 http://stream.tvcdn.net/azerbaycan/sehiyye-tv.m3u8
 
