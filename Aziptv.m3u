@@ -111,8 +111,8 @@ https://ip240.avrupatelekom.com:3153/stream/play.m3u8
 #EXTINF:-1, Sahar TV
 http://
 
-#EXTINF:-1, Sara TV
-http://
+#EXTINF:-1, TV7
+https://a8.radyotelekom.com.tr:3620/hybrid/play.m3u8
 
 #EXTINF:-1, Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
