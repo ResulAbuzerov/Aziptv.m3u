@@ -132,14 +132,14 @@ https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:-1, Dünya TV
 http://
 
-#EXTINF:-1, İnterAz TV
-http://
+#EXTINF:-1, AzStar 
+http://stream.tvcdn.net/azerbaycan/az-star-tv.m3u8
 
 #EXTINF:-1, Baku TV
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16047/index.m3u8
 
-#EXTINF:-1, Aygün TV
-http://
+#EXTINF:-1, FTV TV
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 
 #EXTINF:-1, ABA TV
 http://
@@ -150,11 +150,11 @@ http://
 #EXTINF:-1, Dalğa TV (artıq fəaliyyət göstərmir)
 http://
 
-#EXTINF:-1, FC Baku TV (internet)
-http://
+#EXTINF:-1, ses tv
+http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
 
-#EXTINF:-1, XL TV
-http://
+#EXTINF:-1, Azad söz TV
+http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
 
 #EXTINF:-1, Inter FC TV
 http://
