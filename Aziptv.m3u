@@ -22,7 +22,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2190/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16042/index.m3u8
 
 #EXTINF:-1, Xəzər TV
-https://yayin2.canlitv.fun/live/xezertv.stream/chunklist_w189723232.m3u8?hash=9ae88cfa8657d9dcfd70651f0ce4703f
+http://flussonic.izone.az:80/xezertv/mono.m3u8
 
 #EXTINF:-1, ARB TV
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2187/index.m3u8
@@ -54,20 +54,20 @@ http://
 #EXTINF:-1, APA TV
 http://
 
-#EXTINF:-1, Meydan TV
-http://
+#EXTINF:-1, Flux TV
+https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 
-#EXTINF:-1, Vision TV
-http://
+#EXTINF:-1, Esma TV
+https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 
-#EXTINF:-1, CanAz TV
-http://
+#EXTINF:-1, Movies new az
+https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
 
 #EXTINF:-1, EL TV
 https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 
-#EXTINF:-1, Eşraq TV
-http://
+#EXTINF:-1, Mega Gence TV
+http://195.9.195.3:8080/hls/215207.m3u8
 
 #EXTINF:-1, GünAz TV
 https://2meet.az/live/livestream.flv
