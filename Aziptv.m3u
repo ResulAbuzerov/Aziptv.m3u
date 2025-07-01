@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", AzTv
-https://str2.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=767f576c47cbe78fa860fc5b66129889e3504a32-c9efcfc932255bb2854fc38aa1
+http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", İctimai TV
-https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
+http://erlyvideo.izone.az:80/ictimaitv/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", İdman TV
-https://str2.yodacdn.net/idman/tracks-v1a1/mono.m3u8?token=767f576c47cbe78fa860fc5b66129889e3504a32-c9efcfc932255bb2854fc38aa1c43436-1751313202000000-1751302402000
+http://erlyvideo.izone.az:80/idmanaz/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Mədəniyyət TV
-https://str2.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=767f576c47cbe78fa860fc5b66129889e3504a32-c9efcfc932255bb2854fc38aa1c43436-1751313202000000-1751302402000
+http://erlyvideo.izone.az:80/medeniyyet/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ATV
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880870_b1896000.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Space TV
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2190/index.m3u8
@@ -22,7 +22,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2190/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16042/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Xəzər TV
-http://flussonic.izone.az:80/xezertv/mono.m3u8
+http://erlyvideo.izone.az:80/xezertv/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ARB TV
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2187/index.m3u8
