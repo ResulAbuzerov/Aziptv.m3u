@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", AzTv
 https://str2.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=767f576c47cbe78fa860fc5b66129889e3504a32-c9efcfc932255bb2854fc38aa1
 
-#EXTINF:-1, İctimai TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", İctimai TV
 https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
 
 #EXTINF:-1, İdman TV
