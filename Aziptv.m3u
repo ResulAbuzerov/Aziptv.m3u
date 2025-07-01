@@ -84,20 +84,20 @@ http://85.132.78.122:8050/dashjs/stream/index.mpd
 #EXTINF:-1, Qafqaz TV
 https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8?token=3aab93e598f988d9302c26f510640c8c57daa687-606dfb7073e691039bde21da2641fb94-1751323328-1751312528
 
-#EXTINF:-1, Qütb TV
-http://
+#EXTINF:-1, Kinostar HD
+https://a8.radyotelekom.com.tr:3445/stream/play.m3u8
 
-#EXTINF:-1, Maarif TV
-http://
+#EXTINF:-1, HTV sinema
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/vipcinema/playlist.m3u8
 
-#EXTINF:-1, Marneuli TV
-http://
+#EXTINF:-1, HTV Azerbaycan
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/muzikvip/playlist.m3u8
 
-#EXTINF:-1, Meydan TV
-http://
+#EXTINF:-1, Sirius
+http://195.9.195.3:8080/hls/211270.m3u8
 
-#EXTINF:-1, Mingəçevir TV
-http://
+#EXTINF:-1, SDM TV
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, MTV Azerbaijan
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2191/index.m3u8
@@ -105,8 +105,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2191/index.m3u8
 #EXTINF:-1, Naxçıvan TV
 https://str1.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8?token=8964e3baaafb6037ecafadfd161b05d3a2671fc8-86ce08e026794daa2a72773e7fa75f7d-1751323241-1751312441
 
-#EXTINF:-1, CanAz TV
-http://
+#EXTINF:-1, Ulduz TV
+https://ip240.avrupatelekom.com:3153/stream/play.m3u8
 
 #EXTINF:-1, Sahar TV
 http://
@@ -114,14 +114,14 @@ http://
 #EXTINF:-1, Sara TV
 http://
 
-#EXTINF:-1, Savalan TV
-http://
+#EXTINF:-1, Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 
 #EXTINF:-1, Səhənd TV
 http://
 
-#EXTINF:-1, Simurq M TV
-http://
+#EXTINF:-1, Mega TV
+https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 
 #EXTINF:-1, TMB TV
 http://
