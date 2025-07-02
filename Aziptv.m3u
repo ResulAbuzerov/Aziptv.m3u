@@ -4,7 +4,7 @@
 http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", İctimai TV
-http://erlyvideo.izone.az:80/ictimaitv/mono.m3u8
+http://funmitra.com:8080/adempolat/khgftrusb8l/7847
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", İdman TV
 http://erlyvideo.izone.az:80/idmanaz/mono.m3u8
