@@ -79,10 +79,10 @@ https://str.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8?token=42e4ed7f209ab3074
 https://proxy.canlitvplayer.com/str.yodacdn.net/start/mono.m3u8?token=ae629d5ff1b5b708bd526f4efd93c2755c3a8780-ee4dc7a99ec370867
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kepez TV
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
+http://85.132.78.122:8050/dashjs/stream/index.mpd
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Qafqaz TV
-https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8?token=d624c4150a3bc78c6ce798e612ae096eb73e827d-1e00921ba532c731eed273cea7a4c4ba-1751376180-1751365380
+http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563743&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kinostar HD
 https://a8.radyotelekom.com.tr:3445/stream/play.m3u8
@@ -94,7 +94,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/vipcinema/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/muzikvip/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Sirius
-http://195.9.195.3:8080/hls/211270.m3u8
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", SDM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
