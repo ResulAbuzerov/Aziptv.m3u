@@ -141,8 +141,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16047/index.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", FTV TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ABA TV
-http://
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Retro TV
+https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ANS TV (artıq fəaliyyət göstərmir)
 http://
