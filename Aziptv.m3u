@@ -82,7 +82,7 @@ https://yayin2.canlitv.fun/live/kanals.stream/chunklist_w1259096840.m3u8?hash=a4
 http://85.132.78.122:8050/dashjs/stream/index.mpd
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Qafqaz TV
-http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563743&extension=m3u8
+https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=68a61a4243cab3c4a2549e69063d75e12b9927d6-a4524f7eb70985e2ffaff199cdda1c06-1751543950-1751533150
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kinostar HD
 https://a8.radyotelekom.com.tr:3445/stream/play.m3u8
@@ -181,5 +181,4 @@ http://
 http://
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Səhiyyə TV
-http://stream.tvcdn.net/azerbaycan/sehiyye-tv.m3u8
-
+https://str.yodacdn.net/shtv/tracks-v1a1/mono.m3u8?token=68a61a4243cab3c4a2549e69063d75e12b9927d6-a4524f7eb70985e2ffaff199cdda1c06-1751543950-1751533150
