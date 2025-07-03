@@ -10,7 +10,7 @@ https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
 https://str2.yodacdn.net/idman/tracks-v1a1/mono.m3u8?token=924f0d3a588686093f648e1c6233f6bb9f5fb6af-8e12d74cb3a467cf69431669591022bd-1751542604000000-1751531804000
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Mədəniyyət TV
-http://flussonic.izone.az:80/medeniyyet/mono.m3u8
+https://str2.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=924f0d3a588686093f648e1c6233f6bb9f5fb6af-8e12d74cb3a467cf69431669591022bd-1751542604000000-1751531804000
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ATV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?token=undefined&subscriberId=undefined&subscriberCode
