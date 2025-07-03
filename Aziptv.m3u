@@ -79,7 +79,7 @@ https://str.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8?token=42e4ed7f209ab3074
 https://yayin2.canlitv.fun/live/kanals.stream/chunklist_w1259096840.m3u8?hash=a418f03a115400d64cfdce3a98004a3c
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kepez TV
-ffmpeg -i http://85.132.78.122:8050/dashjs/stream/index.mpd -c copy -f hls output.m3u8
+http://85.132.78.122:8050/dashjs/stream/index.mpd
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Qafqaz TV
 https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=68a61a4243cab3c4a2549e69063d75e12b9927d6-a4524f7eb70985e2ffaff199cdda1c06-1751543950-1751533150
