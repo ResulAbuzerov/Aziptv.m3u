@@ -66,8 +66,8 @@ https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", EL TV
 https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Gence TV
-https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", GGGGG
+
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", GünAz TV
 https://2meet.az/live/livestream.flv
