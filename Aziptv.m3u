@@ -136,7 +136,7 @@ http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/pl
 https://live.livestreamtv.ca/azstar/amlst:azstar/chunklist_w1024525277_b2096000.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Baku TV
-http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16047/index.m3u8
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", FTV TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
