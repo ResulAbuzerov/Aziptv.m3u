@@ -49,7 +49,7 @@ http://
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/1050/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", CBC Sport
-http://
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
@@ -108,8 +108,8 @@ https://str1.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8?token=8964e3baaafb6037ecaf
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Ulduz TV
 https://ip240.avrupatelekom.com:3153/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Sahar TV
-http://
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", GƏNCƏ TV
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", TV7
 https://a8.radyotelekom.com.tr:3620/hybrid/play.m3u8
