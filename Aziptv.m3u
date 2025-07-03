@@ -159,8 +159,8 @@ http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Dizi Channel HD
 https://cdn1-dizichannelhd.yayin.com.tr/dizichannelhd/dizichannelhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", TV Tibb
-http://
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Rihat TV
+https://v2.catcast.tv/content/48076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Heydarbaba TV
 http://
