@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", AzTv
-http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+https://str.yodacdn.net/aztv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", İctimai TV
 https://live.itv.az/itv.m3u8
@@ -124,7 +124,7 @@ https://cdn4.yayin.com.tr/ismayillitv/video.m3u8
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", TMB TV
-http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
@@ -162,14 +162,14 @@ https://cdn1-dizichannelhd.yayin.com.tr/dizichannelhd/dizichannelhd/playlist.m3u
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Rihat TV
 https://v2.catcast.tv/content/48076/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Heydarbaba TV
-http://
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", SINEMA TVᵀᴿ
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89835&extension=ts
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Obyektiv TV
-http://
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", SINEMA AKSIONᵀᴿ
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension=ts
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Reaksiya TV
-http://
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", SINEMA AILEᵀᴿ
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension=ts
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Alvin Channel TV
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1251196011.m3u8
