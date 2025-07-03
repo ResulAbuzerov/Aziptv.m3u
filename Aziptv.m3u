@@ -4,7 +4,7 @@
 http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", İctimai TV
-https://live.itv.az/itv.m3u8
+https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", İdman TV
 http://flussonic.izone.az:80/idmanaz/mono.m3u8
@@ -13,7 +13,7 @@ http://flussonic.izone.az:80/idmanaz/mono.m3u8
 http://flussonic.izone.az:80/medeniyyet/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ATV
-http://flussonic.izone.az:80/azadazerbaycan/mono.m3u8
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?token=undefined&subscriberId=undefined&subscriberCode
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Space TV
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2190/index.m3u8
