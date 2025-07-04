@@ -162,13 +162,13 @@ https://cdn1-dizichannelhd.yayin.com.tr/dizichannelhd/dizichannelhd/playlist.m3u
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Rihat TV
 https://v2.catcast.tv/content/48076/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", SINEMA TVᵀᴿ
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/tr.png", SINEMA TVᵀᴿ
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89835&extension=ts
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", SINEMA AKSIONᵀᴿ
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/tr.png"", SINEMA AKSIONᵀᴿ
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension=ts
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", SINEMA AILEᵀᴿ
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/tr.png", SINEMA AILEᵀᴿ
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension=ts
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Alvin Channel TV
