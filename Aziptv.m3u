@@ -73,7 +73,7 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 https://2meet.az/live/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kanal 35
-https://str.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8?token=42e4ed7f209ab307485cbc308ff4b7e2a9fbc966-e304b84362ae826a584e43fa0416a9ef-1751367581-1751356781
+https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
