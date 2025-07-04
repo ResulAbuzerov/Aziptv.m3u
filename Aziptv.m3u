@@ -10,13 +10,13 @@ https://live.itv.az/itv.m3u8
 https://str2.yodacdn.net/idman/tracks-v1a1/mono.m3u8?token=924f0d3a588686093f648e1c6233f6bb9f5fb6af-8e12d74cb3a467cf69431669591022bd-1751542604000000-1751531804000
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Mədəniyyət TV
-https://str2.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=924f0d3a588686093f648e1c6233f6bb9f5fb6af-8e12d74cb3a467cf69431669591022bd-1751542604000000-1751531804000
+https://str.yodacdn.net/medeniyyet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ATV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?token=undefined&subscriberId=undefined&subscriberCode
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Space TV
-http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2190/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", KATV1 AZ
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16042/index.m3u8
@@ -25,7 +25,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16042/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ARB TV
-http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2187/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ARB 24
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2188/index.m3u8
@@ -75,8 +75,8 @@ https://2meet.az/live/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kanal 35
 https://str.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8?token=42e4ed7f209ab307485cbc308ff4b7e2a9fbc966-e304b84362ae826a584e43fa0416a9ef-1751367581-1751356781
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kanal-S
-https://yayin2.canlitv.fun/live/kanals.stream/chunklist_w1259096840.m3u8?hash=a418f03a115400d64cfdce3a98004a3c
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kanal S
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kepez TV
 http://85.132.78.122:8050/dashjs/stream/index.mpd
@@ -136,7 +136,7 @@ http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/pl
 https://live.livestreamtv.ca/azstar/amlst:azstar/chunklist_w1024525277_b2096000.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Baku TV
-https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", FTV TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
