@@ -171,11 +171,11 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/tr.png", SINEMA AILEᵀᴿ
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension=ts
 
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/tr.png",  CARTOON NETWORK HDᵀᴿ
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/30701
+
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Alvin Channel TV
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1251196011.m3u8
-
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Media Türk TV
-http://
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", 114 TV
 http://
