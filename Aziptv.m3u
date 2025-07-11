@@ -89,7 +89,7 @@ https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=3ff9d6496317b80bd81d6
 https://a8.radyotelekom.com.tr:3445/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", HTV sinema
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/vipcinema/playlist.m3u8
+https://a8.radyotelekom.com.tr:3761
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", HTV Azerbaycan
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/muzikvip/playlist.m3u8
