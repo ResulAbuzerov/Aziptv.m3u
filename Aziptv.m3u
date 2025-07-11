@@ -185,7 +185,7 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w125
 http://cdn4.yayin.com.tr/tv36/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Səhiyyə TV
-https://mydo.canlitvplayer.com/shtv.m3u8?user=37076&token=d060972c93b8e90265394d0f6915bf4c&e=1751786676&bands=2096&sid=coder_78
+http://149.255.152.199/shtv.ts?bandwidth=2096&chunk=5974094&e=1752314674&sid=coder_78&token=426db5eb83c25 568c196ead4a73c67=
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Ekran 85
 https://s.catcast.tv/content/48076/index.m3u8
