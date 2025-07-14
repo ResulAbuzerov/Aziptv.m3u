@@ -152,7 +152,7 @@ https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
 https://a8.radyotelekom.com.tr:3326/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", CTV Azerbaycan TV
-https://a8.radyotelekom.com.tr:3434/stream/play.m3u8
+http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ses tv
 http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
