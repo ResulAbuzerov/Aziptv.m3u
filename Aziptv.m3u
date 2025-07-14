@@ -4,7 +4,7 @@
 https://str.yodacdn.net/aztv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", İctimai TV
-https://live.itv.az/itv.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2195/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", İdman TV
 https://str.yodacdn.net/idman/index.m3u8
@@ -43,7 +43,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16067/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Real TV
-https://cdn401.canlitv.vin/realtv.m3u8?tkn=PEQHP0oSNUFrMDMbrbhVlQ&tms=1751546859&hst=www.canlitv.vin&ip=185.91.208.51
+http://gqdns.com:8080/ilirbilalli/7KR42eQy/109622
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", CBC TV
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/1050/index.m3u8
@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://85.132.78.122:8050/dashjs/stream/index.mpd
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Qafqaz TV
-https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=3ff9d6496317b80bd81d605308698b29784be2d4-0f4e0a1193270961c67305870eb2f661-1751710180-1751699380
+http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563743&extension=m3u8
 
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Kinostar HD
@@ -176,7 +176,7 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension=ts
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/tr.png",  CARTOON NETWORK HDᵀᴿ
-http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/30701
+https://tv1.arectv30.sbs/live/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Alvin Channel TV
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1251196011.m3u8
@@ -185,7 +185,7 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w125
 http://cdn4.yayin.com.tr/tv36/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Səhiyyə TV
-http://149.255.152.199/shtv.ts
+https://goldvod.org/tv/az.php?id=shtv
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Ekran 85
 https://cdn4.yayin.com.tr/ekran85/tracks-v1a1/mono.m3u8
