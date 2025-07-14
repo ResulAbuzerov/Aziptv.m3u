@@ -13,7 +13,7 @@ https://str.yodacdn.net/idman/index.m3u8
 https://str.yodacdn.net/medeniyyet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ATV
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?token=undefined&subscriberId=undefined&subscriberCode
+http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/16045/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
@@ -34,7 +34,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2188/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ATV Cinema AZ
-http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2120/index.m3u8
+http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563780&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Show plus tv
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16067/index.m3u8
