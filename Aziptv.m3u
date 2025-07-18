@@ -110,7 +110,7 @@ https://str2.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
 https://ip240.avrupatelekom.com:3153/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", GƏNCƏ TV
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
+https://live20.bozztv.com/giatv/giatv-GenceTV_live/GenceTV_live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", TV7
 https://a8.radyotelekom.com.tr:3620/hybrid/play.m3u8
