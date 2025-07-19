@@ -106,8 +106,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2191/index.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Naxçıvan TV
 https://str2.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Ulduz TV
-https://ip240.avrupatelekom.com:3153/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", POP/star
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", GƏNCƏ TV
 https://live20.bozztv.com/giatv/giatv-GenceTV_live/GenceTV_live/chunks.m3u8
