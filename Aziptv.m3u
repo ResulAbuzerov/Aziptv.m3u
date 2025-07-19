@@ -112,8 +112,8 @@ https://ip240.avrupatelekom.com:3153/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", GƏNCƏ TV
 https://live20.bozztv.com/giatv/giatv-GenceTV_live/GenceTV_live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", TV7
-https://a8.radyotelekom.com.tr:3620/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/tr.png", Deniz posdası
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
