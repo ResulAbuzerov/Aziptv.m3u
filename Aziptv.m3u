@@ -66,6 +66,9 @@ https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Movies new az
 https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", TV 1
+https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png", EL TV
 https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 
