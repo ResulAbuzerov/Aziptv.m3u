@@ -33,7 +33,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2188/index.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ARB Güneş
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ATV Cinema AZ
+#EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
 http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2120/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", ATV Vivace AZ
