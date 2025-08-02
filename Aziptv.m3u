@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", AzTv
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2134.png", AzTv
 https://str.yodacdn.net/aztv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", İctimai TV
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2555.png", İctimai TV
 http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2195/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6013.png", İdman TV
 https://str.yodacdn.net/idman/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Mədəniyyət TV
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2557.png", Mədəniyyət TV
 https://str.yodacdn.net/medeniyyet/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9134.png", ATV
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9136.png", KATV1 AZ
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16042/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Xəzər TV
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2558.png", Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2635.png", ARB TV
@@ -48,10 +48,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2192/index.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Real TV
 http://gqdns.com:8080/ilirbilalli/7KR42eQy/109622
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", CBC TV
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2556.png", CBC TV
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/1050/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", CBC Sport
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2636.png", CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", APA TV
