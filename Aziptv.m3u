@@ -100,10 +100,10 @@ http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Music AZ HIT
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Sirius
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHMNrJQZ/In-Shot-20250209-195632491.png", Sirius
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", SDM TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B621rdsw/In-Shot-20250210-104639637.png", SDM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cBDyLJJ/In-Shot-20250209-204416916.png", MTV Azerbaijan
@@ -118,7 +118,7 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9f6S1tYH/In-Shot-20250222-184002920.png", GƏNCƏ TV
 https://live20.bozztv.com/giatv/giatv-GenceTV_live/GenceTV_live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/tr.png", Deniz posdasıᵀᴿ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png", Deniz posdasıᵀᴿ
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png", Ayaz TV
