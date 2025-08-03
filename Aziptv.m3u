@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2134.png", AZ 7/24
+http://v2.catcast.tv/content/47776/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2134.png", AzTv
 https://str.yodacdn.net/aztv/index.m3u8
 
