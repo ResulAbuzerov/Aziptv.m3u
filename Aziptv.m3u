@@ -49,7 +49,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16067/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcNLCBD5/Real-TV-Azerbaijan-Logo.png", Real TV
-http://gqdns.com:8080/ilirbilalli/7KR42eQy/109622
+http://ru2.team.ga:80/ch1543/mono.m3u8?token=byamid.uBDGlejQkjyXZd092BqDKvUz0uHMncjTXWgWmsr5MnMgJa3AoQdnFTZrHVPCS4IQ
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2556.png", CBC TV
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/1050/index.m3u8
@@ -92,7 +92,6 @@ http://85.132.78.122:8050/dashjs/stream/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
 http://687e7cdfb3533.dynuddns.com:8080/hls/f998864c07659f22deffffa322d21860/563743_50.ts
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1z3WC0V7/In-Shot-20250324-074646845.png", Kinostar HD
 https://a8.radyotelekom.com.tr:3445/stream/play.m3u8
