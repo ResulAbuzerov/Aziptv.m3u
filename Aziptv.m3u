@@ -111,7 +111,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cBDyLJJ/In-Shot-20250209-204416916.png", MTV Azerbaijan
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2191/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/529XW97H/logo.png", Naxçıvan TV
+#EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png?v=2", Naxçıvan TV
 https://str2.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", POP/star
@@ -194,6 +194,3 @@ http://cdn4.yayin.com.tr/tv36/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpQsbxbw/S-hiyy-TV.png", Səhiyyə TV
 http://185.32.44.154/sehiyye/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Ekran 85
-https://v2.catcast.tv/content/48076/index.m3u8
