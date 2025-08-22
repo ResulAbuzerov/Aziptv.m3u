@@ -171,8 +171,8 @@ http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Dizi Channel HD
 https://cdn1-dizichannelhd.yayin.com.tr/dizichannelhd/dizichannelhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Rihat TV
-https://cdn4.yayin.com.tr/ekran85/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26062025/logos/48076-685c57ea6d446.png", Rihat TV
+https://v2.catcast.tv/content/48076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png", SINEMA TVᵀᴿ
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89835&extension=ts
