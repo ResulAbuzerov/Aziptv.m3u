@@ -189,7 +189,7 @@ https://tv1.arectv30.sbs/live/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png", Alvin Channel TV
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1251196011.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", TV 36
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/33132/logo_256.jpg", TV 36
 http://cdn4.yayin.com.tr/tv36/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpQsbxbw/S-hiyy-TV.png", Səhiyyə TV
