@@ -180,7 +180,7 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89835&extension
 #EXTINF:-1 tvg-logo="https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png", SINEMA AKSIONᵀᴿ
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension=ts
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/tr.png", SINEMA AILEᵀᴿ
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png", SINEMA AILEᵀᴿ
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5qn3w5s/Cartoon-Network-2010-logo-svg.png",  CARTOON NETWORK HDᵀᴿ
