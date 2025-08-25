@@ -69,7 +69,7 @@ https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Esma TV
 https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Movies new az
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC6dtNV8/107-1070590-movies-now-movies-now-logo-png.png", Movies new az
 https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Gala TV
@@ -99,7 +99,7 @@ http://687e7cdfb3533.dynuddns.com:8080/hls/f998864c07659f22deffffa322d21860/5637
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1z3WC0V7/In-Shot-20250324-074646845.png", Kinostar HD
 https://a8.radyotelekom.com.tr:3445/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", arı music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXLR6KRG/In-Shot-20250420-231835426.png", arı music
 http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2556.png", Music AZ HIT
@@ -117,7 +117,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2191/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png?v=2", Naxçıvan TV
 https://str2.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", POP/star
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6p2y277J/In-Shot-20250425-200153282.png", POP/star
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9f6S1tYH/In-Shot-20250222-184002920.png", GƏNCƏ TV
