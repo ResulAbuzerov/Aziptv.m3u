@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2134.png", AZ 7/24
-http://v2.catcast.tv/content/47776/index
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2134.png", AzTv
 https://str.yodacdn.net/aztv/index.m3u8
@@ -66,7 +66,7 @@ http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Flux TV
 https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Esma TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8tF0mhn/In-Shot-20250423-230428311.png", Esma TV
 https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YC6dtNV8/107-1070590-movies-now-movies-now-logo-png.png", Movies new az
@@ -132,7 +132,7 @@ https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png", İsmayıllı TV
 https://cdn4.yayin.com.tr/ismayillitv/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Mega TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYVRyGPc/In-Shot-20250411-173624294.png", Mega TV
 http://focustv.live:8080/emin1909sky317/emin.190924/118649
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png", TMB TV
@@ -162,7 +162,7 @@ https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0xx5G4C/In-Shot-20250324-081151799.png", ŞİRVAN TV
 https://a8.radyotelekom.com.tr:3326/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", CTV Azerbaycan TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHLZ5zzY/In-Shot-20250306-184346375.png", CTV Azerbaycan TV
 http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvkp2fJX/In-Shot-20250209-200301414.png", ses tv
