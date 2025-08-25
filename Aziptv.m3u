@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2134.png", AZ 7/24
+#EXTINF:-1 tvg-logo="https://iptvazerbaycan.com//assets/images/favicon.png", AZ 7/24
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2134.png", AzTv
@@ -23,6 +23,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9136.png", KATV1 AZ
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16042/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QrvfpL0/In-Shot-20250516-082658023.png", TV 1
+https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2558.png", Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
