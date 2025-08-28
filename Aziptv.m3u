@@ -105,7 +105,7 @@ https://a8.radyotelekom.com.tr:3445/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXLR6KRG/In-Shot-20250420-231835426.png", arı music
 http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXLR6KRG/In-Shot-20250420-231835426.png", KN music box
+#EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2556.png", Music AZ HIT
