@@ -69,7 +69,7 @@ http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Flux TV
 https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8tF0mhn/In-Shot-20250423-230428311.png", Esma TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/wki9x97fevugw94nbumtf/iPlay-Cinema.png?rlkey=un3pvtboj0slykhvni2f332j1&st=10wua12f&dl=0", iPlay cinema
 https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YC6dtNV8/107-1070590-movies-now-movies-now-logo-png.png", Movies new az
