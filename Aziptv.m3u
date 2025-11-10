@@ -199,7 +199,7 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension
 https://tv1.arectv30.sbs/live/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png", Alvin Channel TV
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1251196011.m3u8
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6mXwfJs/1757189222142.png", TV 36
 http://cdn4.yayin.com.tr/tv36/video.m3u8
