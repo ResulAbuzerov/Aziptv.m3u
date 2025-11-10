@@ -49,7 +49,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2120/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/X9BHNEFRXKDSYS/16068/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9131.png", Show plus tv
-http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16067/index.m3u8
+https://rtmp.showplus.tv/hls/myshow.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2435.png", Dunya TV
 http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2192/index.m3u8
