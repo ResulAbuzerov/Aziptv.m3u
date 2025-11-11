@@ -27,7 +27,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/16042/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QrvfpL0/In-Shot-20250516-082658023.png", TV 1
 https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png", Xəzər TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X%C9%99z%C9%99r_TV_loqosu_%282023%29.png/1200px-X%C9%99z%C9%99r_TV_loqosu_%282023%29.png", Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2635.png", ARB TV
@@ -177,8 +177,8 @@ http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bv4Gwmr2/In-Shot-20250321-221409432.png", Azad söz TV
 http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/az.png", Dizi Channel HD
-https://cdn1-dizichannelhd.yayin.com.tr/dizichannelhd/dizichannelhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NvjtndK/1762834133538.png", cine az TV
+https://tv191.radyotelekom.com.tr:3394/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26062025/logos/48076-685c57ea6d446.png", Rihat TV
 https://cdn4.yayin.com.tr/ekran85/tracks-v1a1/mono.m3u8
