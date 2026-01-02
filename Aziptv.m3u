@@ -16,7 +16,7 @@ http://str.yodacdn.net/idmantele/index.m3u8
 http://str.yodacdn.net/medeniyyettele/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9134.png", ATV
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p3500kbps.m3u8
+http://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2553.png", Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
@@ -144,7 +144,7 @@ http://focustv.live:8080/emin1909sky317/emin.190924/118649
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png", TMB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/8bcd2f7a-d53e-4ef2-9fc6-03e32c7f7465.png", Live TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk2RT8Bn/images-removebg-preview.png", Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyZQ0k2w/In-Shot-20250209-204537485.png", Könül TV
