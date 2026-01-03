@@ -181,7 +181,7 @@ http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
 https://tv156.radyotelekom.com.tr:3852/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26062025/logos/48076-685c57ea6d446.png", Rihat TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48302&token=2317278a204195e2faaf7929f27d46dc&server=v2.catcast.tv
+https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/9929/9929411.png", Ekran 85
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=386e51d894a4f7948b2fca285832b5d1&server=v2.catcast.tv
