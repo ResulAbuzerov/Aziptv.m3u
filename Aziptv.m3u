@@ -177,8 +177,8 @@ https://harun.tiviplayer.com/player/m3u8/f5228b387b2d6686305567e24bb90af3/f5228b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bv4Gwmr2/In-Shot-20250321-221409432.png", Azad söz TV
 http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NvjtndK/1762834133538.png", cine az TV
-https://tv191.radyotelekom.com.tr:3394/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfCWG3MN/1767420739932.png", cine az TV
+https://tv156.radyotelekom.com.tr:3852/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26062025/logos/48076-685c57ea6d446.png", Rihat TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48302&token=2317278a204195e2faaf7929f27d46dc&server=v2.catcast.tv
