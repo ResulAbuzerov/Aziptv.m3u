@@ -123,8 +123,8 @@ http://str.yodacdn.net/mtvaz/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png?v=2", Naxçıvan TV
 http://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6p2y277J/In-Shot-20250425-200153282.png", POP/star
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zcFSGDN/Yurd-FM-Dogma-musiqi-dalgasi.jpg", Yurd FM
+https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9f6S1tYH/In-Shot-20250222-184002920.png", GƏNCƏ TV
 https://live20.bozztv.com/giatv/giatv-GenceTV_live/GenceTV_live/chunks.m3u8
