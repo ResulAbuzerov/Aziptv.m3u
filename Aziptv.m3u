@@ -85,7 +85,7 @@ https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbpbW00/Gunaz-tv-svg.png", GünAz TV
-https://2meet.az/live/livestream.m3u8
+https://tv.gunaz.tv/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png", Kanal 35
 https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
