@@ -127,7 +127,7 @@ http://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
 https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9f6S1tYH/In-Shot-20250222-184002920.png", GƏNCƏ TV
-https://live20.bozztv.com/giatv/giatv-GenceTV_live/GenceTV_live/chunks.m3u8
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png", Deniz posdasıᵀᴿ
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
