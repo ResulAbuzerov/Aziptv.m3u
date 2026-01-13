@@ -81,6 +81,9 @@ http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png", EL TV
 https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/158M5w7V/1768336784567.png", kanal 65
+https://i.postimg.cc/d07HQv94/EL-TV-2020.png
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFWP1V8B/1757188084827.png", Play TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
