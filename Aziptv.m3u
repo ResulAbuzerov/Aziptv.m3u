@@ -76,7 +76,7 @@ https://a8.radyotelekom.com.tr:3742/stream/play.m3u8
 http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsVsY2Ts/1767809228292.png", S TV
-http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
+https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png", EL TV
 https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
