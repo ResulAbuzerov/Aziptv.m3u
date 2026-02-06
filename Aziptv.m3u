@@ -91,7 +91,7 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 https://tv.gunaz.tv/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png", Kanal 35
-https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+http://str2.yodacdn.net/kanal35/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png", Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
