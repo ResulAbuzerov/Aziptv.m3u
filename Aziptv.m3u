@@ -67,7 +67,7 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 http://rtmp.apa.tv/@pagroup!23.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
-https://live20.bozztv.com/akamaissh101/ssh101/htvcinema/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/sinemahtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
@@ -168,8 +168,8 @@ https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKqeMvf.png", Retro TV
 https://live20.bozztv.com/akamaissh101/ssh101/mega022/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0xx5G4C/In-Shot-20250324-081151799.png", ŞİRVAN TV
-https://a8.radyotelekom.com.tr:3326/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lJeMRxt.png", ŞİRVAN TV
+https://a8.radyotelekom.com.tr/p/3326/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHLZ5zzY/In-Shot-20250306-184346375.png", CTV Azerbaycan TV
 http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
