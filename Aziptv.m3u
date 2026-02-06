@@ -199,7 +199,7 @@ http://65.108.239.207/sinemaaksiyon/index.m3u8
 http://65.108.239.207/sinemaaile/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5qn3w5s/Cartoon-Network-2010-logo-svg.png",  CARTOON NETWORK HDᵀᴿ
-https://yayin2.canlitv.fun/live/cartoon-network.stream/playlist.m3u8?hash=e4500f7d663b44c3b4f0289e5092fcbc
+https://yayin2.canlitv.fun/live/cartoon-network.stream/chunklist_w1510672414.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png", Alvin Channel TV
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
