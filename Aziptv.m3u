@@ -69,8 +69,8 @@ http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 https://live20.bozztv.com/akamaissh101/ssh101/htvcinema/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/wki9x97fevugw94nbumtf/iPlay-Cinema.png?rlkey=un3pvtboj0slykhvni2f332j1&st=10wua12f&dl=0", iPlay cinema
-https://a8.radyotelekom.com.tr:3742/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/035/753/221/small_2x/video-play-button-icon-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-png.png", NEW play
 http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
