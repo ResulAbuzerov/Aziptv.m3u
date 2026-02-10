@@ -102,13 +102,13 @@ http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2556.png", Music AZ HIT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gOTczMf.png", Music AZ HIT
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHMNrJQZ/In-Shot-20250209-195632491.png", Sirius
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B621rdsw/In-Shot-20250210-104639637.png", SDM TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VAG8ZQ5.png", SDM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cBDyLJJ/In-Shot-20250209-204416916.png", MTV Azerbaijan
@@ -120,7 +120,7 @@ http://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png", Deniz posdasıᵀᴿ
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gnA8JHA.png", Ayaz TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5mqumJm.png", Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WMEFrpM.png", İsmayıllı TV
@@ -141,7 +141,7 @@ http://live.azstartv.com/azstar/azstar_720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9144.png", Baku TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ylJYo5R.png", Könül music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dn2AZKE.png", Könül music
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKTndbFF/In-Shot-20250209-203240269.png", FTV TV
