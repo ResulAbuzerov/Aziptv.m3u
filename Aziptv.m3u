@@ -99,8 +99,8 @@ http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gOTczMf.png", Music AZ HIT
-https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ro0HPDJ.png", AZ Music HD
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
