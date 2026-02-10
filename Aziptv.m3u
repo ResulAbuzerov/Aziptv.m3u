@@ -63,7 +63,7 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bny2M3B9/logo-apatv.png", APA TV
 http://str2.yodacdn.net/apatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TyNwStU.png", HTV sinema
 https://live20.bozztv.com/akamaissh101/ssh101/sinemahtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TV
@@ -96,7 +96,7 @@ http://85.132.78.122:8050/dashjs/stream/index.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
 http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png", KN music box
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z92tSK0.png", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ro0HPDJ.png", AZ Music HD
@@ -117,7 +117,7 @@ http://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png", Deniz posdasıᵀᴿ
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5mqumJm.png", Ayaz TV
+#EXTINF:-1 tvg-logo="https://www.ayaztv.com/logo/logo-h.png", Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WMEFrpM.png", İsmayıllı TV
@@ -174,7 +174,7 @@ https://yayin2.canlitv.fun/live/cartoon-network.stream/chunklist_w1510672414.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png", Alvin Channel TV
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Z5jL1w/photo-5386795171908882253-m-removebg-preview.png", Alvin Ovcu TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTpcjM8.png", Alvin Ovcu TV
 http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6mXwfJs/1757189222142.png", TV 36
