@@ -72,9 +72,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/sinemahtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/035/753/221/small_2x/video-play-button-icon-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-png.png", NEW play
-http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uxZicm7.png", S TV
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 
@@ -120,12 +117,6 @@ http://str.yodacdn.net/mtvaz/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png?v=2", Naxçıvan TV
 http://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zcFSGDN/Yurd-FM-Dogma-musiqi-dalgasi.jpg", Yurd FM
-https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8_output_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9f6S1tYH/In-Shot-20250222-184002920.png", GƏNCƏ TV
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png", Deniz posdasıᵀᴿ
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
@@ -134,9 +125,6 @@ https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WMEFrpM.png", İsmayıllı TV
 https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYVRyGPc/In-Shot-20250411-173624294.png", Mega TV
-http://focustv.live:8080/emin1909sky317/emin.190924/118649
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png", TMB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
@@ -168,9 +156,6 @@ https://a8.radyotelekom.com.tr/p/3326/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvkp2fJX/In-Shot-20250209-200301414.png", ses tv
 https://harun.tiviplayer.com/player/m3u8/f5228b387b2d6686305567e24bb90af3/f5228b387b2d6686305567e24bb90af3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfCWG3MN/1767420739932.png", cine az TV
-https://tv156.radyotelekom.com.tr:3852/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFpA0zL.png", Rihat TV
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 
@@ -197,6 +182,3 @@ http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6mXwfJs/1757189222142.png", TV 36
 http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMGC6mNF/1000137697-removebg-preview.png", TV 36 cinema
-http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
