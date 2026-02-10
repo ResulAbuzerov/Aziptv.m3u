@@ -27,7 +27,7 @@ http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/16042/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QrvfpL0/In-Shot-20250516-082658023.png", TV 1
 https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X%C9%99z%C9%99r_TV_loqosu_%282023%29.png/1200px-X%C9%99z%C9%99r_TV_loqosu_%282023%29.png", Xəzər TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3t3k5Mc.png", Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2635.png", ARB TV
@@ -129,7 +129,7 @@ https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png", TMB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk2RT8Bn/images-removebg-preview.png", Live TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w0Km2FQ.png", Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyZQ0k2w/In-Shot-20250209-204537485.png", Könül TV
