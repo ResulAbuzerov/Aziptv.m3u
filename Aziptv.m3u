@@ -30,10 +30,10 @@ https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3t3k5Mc.png", Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png", ARB TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/9/9a/ARB_Media_Qrup.png", ARB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/9/9a/ARB_Media_Qrup.png", ARB 24
+#EXTINF:-1 tvg-logo="https://mail.arb24.az/assets/uploads/sites/logo_arb24.png", ARB 24
 http://str.yodacdn.net/arb24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/ARB_G%C3%BCn%C9%99%C5%9F_logo.png", ARB Güneş
