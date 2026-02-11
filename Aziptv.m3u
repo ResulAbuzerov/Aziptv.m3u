@@ -76,7 +76,7 @@ https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/158M5w7V/1768336784567.png", kanal 65
-https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
+https://catcast.ismailturret.workers.dev/kanal65.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFWP1V8B/1757188084827.png", Play TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
@@ -169,7 +169,7 @@ http://65.108.239.207/sinemaaksiyon/index.m3u8
 http://65.108.239.207/sinemaaile/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5qn3w5s/Cartoon-Network-2010-logo-svg.png",  CARTOON NETWORK HDᵀᴿ
-https://yayin2.canlitv.fun/live/cartoon-network.stream/chunklist_w1510672414.m3u
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48943
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png", Alvin Channel TV
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
