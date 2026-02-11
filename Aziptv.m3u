@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gune
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iS2BrPX.png", ATV Cinema AZ
-http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/2120/index.m3u8
+http://boxviptv.com:25461/0519114447/0519114447/880
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKs7Bhx.png", Show plus tv
 https://rtmp.showplus.tv/hls/myshow.m3u8
@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://str.yodacdn.net/real/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/CBC_Azerbaijan_Logo.png", CBC TV
-http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/1050/index.m3u8
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png", CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
