@@ -66,9 +66,6 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50Yr6P5.png", APA TV
 http://str2.yodacdn.net/apatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TyNwStU.png", HTV sinema
-https://live20.bozztv.com/akamaissh101/ssh101/sinemahtv/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
@@ -149,9 +146,6 @@ https://stream.ftv.az/live/ftv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKqeMvf.png", Retro TV
 https://live20.bozztv.com/akamaissh101/ssh101/mega022/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cRxhxdA.png", ŞİRVAN TV
-https://a8.radyotelekom.com.tr/p/3326/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hU0AnaL.png", ses tv
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
