@@ -79,7 +79,7 @@ https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/158M5w7V/1768336784567.png", kanal 65
-https://catcast.ismailturret.workers.dev/kanal65.m3u8
+https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFWP1V8B/1757188084827.png", Play TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
