@@ -144,7 +144,7 @@ http://live.azstartv.com/azstar/azstar_720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://baku.tv/assets/frontend/img/hd-logo.png", Baku TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dn2AZKE.png", Könül music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0EBS0M2.png", Könül music
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKTndbFF/In-Shot-20250209-203240269.png", FTV HD
@@ -163,13 +163,13 @@ https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 https://catcast.ismailturret.workers.dev/rihattv.m3u8
 
 #EXTINF:-1 tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png", SINEMA TVᵀᴿ
-http://65.108.239.207/sinema/tracks-v1a1/mono.ts.m3u8
+https://65.108.239.207/sinema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png", SINEMA AKSIONᵀᴿ
 http://65.108.239.207/sinemaaksiyon/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png", SINEMA AILEᵀᴿ
-http://65.108.239.207/sinemaaile/tracks-v1a1/mono.ts.m3u8
+https://65.108.239.207/sinemaaile/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5qn3w5s/Cartoon-Network-2010-logo-svg.png",  CARTOON NETWORK HDᵀᴿ
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48943
