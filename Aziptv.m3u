@@ -6,7 +6,7 @@ https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/AzTV_%282019%29.png", AzTv
 http://str.yodacdn.net/azertv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/%C4%B0ctimai_TV_%282021%29.png", İctimai TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wvx7Q5T/ITV-Azerbaijan-Logo.png", İctimai TV
 https://live.itv.az/itv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LfmZXmD/dman-TV-logo.png", İdman TV
@@ -188,3 +188,15 @@ https://catcast.ismailturret.workers.dev/alvinmusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fr0eFRT.png", TV 36
 http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Buğlama tv
+https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-buglama.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Komedixana tv
+https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-comedyxana.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", AZkomedi tv
+https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-azcomedy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", AZfilim tv
+https://catcast.ismailturret.workers.dev/azfilim.m3u8
