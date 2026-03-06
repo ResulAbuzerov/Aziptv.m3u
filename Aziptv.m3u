@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcNLCBD5/Real-TV-Azerbaijan-Logo.png", Real TV
 http://str.yodacdn.net/real/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qCk0rqi.png", TV B
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCk0rqi.png", beğen tv
 https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2j4QwCtq/In-Shot-20260227-223340216.png", kanal 5
@@ -207,5 +207,8 @@ https://catcast.ismailturret.workers.dev/mrbean.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", komedi Türk
 https://catcast.ismailturret.workers.dev/turkuzplay1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Şaban tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Filim Türk
 https://catcast.ismailturret.workers.dev/ksunal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", şaban tv
+https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
