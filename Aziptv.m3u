@@ -15,7 +15,7 @@ http://str.yodacdn.net/idmantele/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png", Mədəniyyət TV
 http://str.yodacdn.net/medeniyyettele/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/500px-Azad_Azerbaycan_TV_logosu.png", ATV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1YxKZSh/785cfca9083712aedfed84b91a0f00e8.png", ATV
 http://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://spacetv.az/assets/f0a68cd3ed1680c9dd49e0191b5a43fc985d877b-DK3Kwhv8.png", Space TV
@@ -44,6 +44,9 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLhBkdx.png", cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MWGr1rn/In-Shot-20260209-105343609.png", ulduz tv
+https://catcast.ismailturret.workers.dev/ulduz-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iS2BrPX.png", ATV Cinema AZ
 http://boxviptv.com:25461/0519114447/0519114447/880
