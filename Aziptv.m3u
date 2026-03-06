@@ -63,8 +63,8 @@ http://str.yodacdn.net/real/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCk0rqi.png", beğen tv
 https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2j4QwCtq/In-Shot-20260227-223340216.png", kanal 5
-https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan12345/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcvrDZA.png", kanal F
+https://catcast.ismailturret.workers.dev/50659.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydpwRny.png", Gence tv
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
