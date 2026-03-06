@@ -46,7 +46,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iS2BrPX.png", ATV Cinema AZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/2120/index.m3u8
+http://boxviptv.com:25461/0519114447/0519114447/880
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKs7Bhx.png", Show plus tv
 https://rtmp.showplus.tv/hls/myshow.m3u8
@@ -75,7 +75,7 @@ http://str2.yodacdn.net/apatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uxZicm7.png", S TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ovow8Iu.png", S TV
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png", EL TV
@@ -177,8 +177,11 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48943
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png", Alvin Channel TV
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bTpcjM8.png", Alvin Ovcu TV
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/30092020/banners/39200-5f7458a8148e8.png", Alvin Ovcu TV
 http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26092020/banners/39199-5f6f8f433735d.png", Alvin music Tv
+https://catcast.ismailturret.workers.dev/alvinmusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fr0eFRT.png", TV 36
 http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
