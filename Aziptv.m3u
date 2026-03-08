@@ -218,3 +218,36 @@ https://catcast.ismailturret.workers.dev/ksunal.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", şaban tvᵀᴿ
 https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49132-7362817349942.png",PlayerFilm AZERBAYCAN
+http://185.114.152.126:8081/playerfilm-azerbaycan/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49103-125032543324.png",PlayerKomedi BOZBASH PICTURES 1
+http://185.114.152.126:8081/playerkomedi-bozbash-pictures-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49104-5853240090885.png",PlayerKomedi BOZBASH PICTURES 2
+http://185.114.152.126:8081/playerkomedi-bozbash-pictures-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49106-1502672691517.png",PlayerKomedi AzFilm 2
+http://185.114.152.126:8081/playerkomedi-azfilm-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49133-7023349646452.png",Player Cinema Azerbaycan Dublyaj
+http://185.114.152.126:8081/player-cinema-azerbaycan-dublyaj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49105-1886820542387.png",PlayerKomedi Azerbaycan Film
+http://185.114.152.126:8081/playerkomedi-azerbaycan-film/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49122-1258623751079.png",PlayerGencMusic az
+http://185.114.152.126:8081/playergencmusic-az/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49110-3945920700305.png",PlayerMeyxana TV
+http://185.114.152.126:8081/playermeyxana-tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49124-7489562770517.png",PlayerZevqMusic
+http://185.114.152.126:8081/playerzevqmusic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49123-5790442340332.png",PlayerTOY Mahnıları
+http://185.114.152.126:8081/playertoy-mahnilari/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49021-385075678385.png",PLAYBOX MÜZİK
+http://185.114.152.126:8081/playbox-muzik/index.m3u8
