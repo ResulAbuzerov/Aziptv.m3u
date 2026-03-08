@@ -249,5 +249,5 @@ http://185.114.152.126:8081/playerzevqmusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49123-5790442340332.png",PlayerTOY Mahnıları
 http://185.114.152.126:8081/playertoy-mahnilari/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24072025/logos/49021-385075678385.png",PLAYBOX MÜZİK
+#EXTINF:-1 tvg-logo="https://catcast.tv/assets/no-logo.svg", PLAYBOX MÜZİK
 http://185.114.152.126:8081/playbox-muzik/index.m3u8
