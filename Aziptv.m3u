@@ -67,7 +67,7 @@ https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
 https://catcast.ismailturret.workers.dev/50659.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/glmCi9j.png", YANSIMA SİNEMA HDᵀᴿ
-http://cdn4.yayin.com.tr:80/yansimasinematv/video.m3u8
+https://catcast.ismailturret.workers.dev/50498.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryx0CpQp/In-Shot-20251006-213447729.png", KuzeyMaxᵀᴿ
 http://75.119.144.48:80/KUZEYMAXHD_STREAM/index.m3u8
