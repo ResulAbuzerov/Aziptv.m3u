@@ -114,7 +114,7 @@ http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z92tSK0.png", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ro0HPDJ.png", AZ Music HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wGwDzcL.png", AZ Music HD
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xYGZ7SD/In-Shot-20251113-210612919.png", Sirius
@@ -153,7 +153,7 @@ http://live.azstartv.com/azstar/azstar_720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://baku.tv/assets/frontend/img/hd-logo.png", Baku TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0EBS0M2.png", Könül music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1DrHMD.png", Könül music
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKTndbFF/In-Shot-20250209-203240269.png", FTV HD
@@ -168,7 +168,7 @@ http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFpA0zL.png", Rihat TV
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8IdzWtT.png", Rihat TV music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BjxGLj7.png", Rihat TV music
 https://catcast.ismailturret.workers.dev/rihattv.m3u8
 
 #EXTINF:-1 tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png", SINEMA TVᵀᴿ
