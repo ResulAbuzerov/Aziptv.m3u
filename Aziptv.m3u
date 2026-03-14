@@ -206,33 +206,3 @@ https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-ke
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png", AZfilim tv
 https://catcast.ismailturret.workers.dev/azfilim.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", mr.bean
-https://catcast.ismailturret.workers.dev/mrbean.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png", PlayerFilm AZERBAYCAN
-https://catcast-tv2.koprulu2.workers.dev/?id=playerfilm-azerbaycan.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/11022026/logos/50500-698c4dac79c98.png", PlayerKomedi BOZBASH PICTURES 1
-https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-bozbashpictures1.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50393-698b493dabd60.png", PlayerKomedi BOZBASH PICTURES 2
-https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-bozbashpikcher.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50373-698b4b14a58e5.png", PlayerKomedi AzFilm 2
-https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-azfilm.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50372-698f70090712e.png", Player Cinema Azerbaycan Dublyaj
-https://catcast-tv2.koprulu2.workers.dev/?id=player-cinemaazerbaycandublyaj.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50370-698b4b5495325.png", PlayerKomedi Azerbaycan Film
-https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-azerbaycanfilm.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50553-69940bdfc4f57.png", PlayerCinema Fantastika
-https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-fantastika.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50392-698f71a8e945c.png", PlayerCinema Hind Filmleri
-https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-hindfilmleri.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50370-698b4b5495325.png", PlayerKomedi Azerbaycan Film
-https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-azerbaycanfilm.m3u8
