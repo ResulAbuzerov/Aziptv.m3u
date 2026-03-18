@@ -66,7 +66,10 @@ https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fcvrDZA.png", Kanal Fᵀᴿ
 https://catcast.ismailturret.workers.dev/50659.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j4ZJ6Tl.png", YANSIMA SİNEMA HDᵀᴿ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1vMnHS.png", kanal F çocukᵀᴿ
+https://catcast.ismailturret.workers.dev/50822.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 https://catcast.ismailturret.workers.dev/50498.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryx0CpQp/In-Shot-20251006-213447729.png", KuzeyMaxᵀᴿ
@@ -84,8 +87,11 @@ http://str2.yodacdn.net/apatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TVᵀᴿ
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ovow8Iu.png", S TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTmp4fC.png", TV36 AZ
+http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png", EL TV
 https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
@@ -191,9 +197,6 @@ http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26092020/banners/39199-5f6f8f433735d.png", Alvin music Tv
 https://catcast.ismailturret.workers.dev/alvinmusic.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fr0eFRT.png", TV 36
-http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Buğlama tv
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-buglama.m3u8
