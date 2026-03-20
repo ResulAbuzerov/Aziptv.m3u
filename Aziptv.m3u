@@ -63,11 +63,17 @@ http://str.yodacdn.net/real/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCk0rqi.png", begen tvᵀᴿ
 https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fcvrDZA.png", Kanal Fᵀᴿ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0M5siTM.png", Kanal Fᵀᴿ
 https://catcast.ismailturret.workers.dev/50659.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y1vMnHS.png", kanal F çocukᵀᴿ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gvim9ti.png", kanal F yeşilçamᵀᴿ
+https://catcast.ismailturret.workers.dev/50823.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1EIBlA1.png", kanal F çocukᵀᴿ
 https://catcast.ismailturret.workers.dev/50822.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruXYeQw.png", kanal F muzikᵀᴿ
+https://catcast.ismailturret.wo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 https://catcast.ismailturret.workers.dev/50498.m3u8
