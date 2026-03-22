@@ -7,7 +7,7 @@ https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 http://str.yodacdn.net/azertv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wvx7Q5T/ITV-Azerbaijan-Logo.png", İctimai TV
-https://live.itv.az/itv.m3u8
+https://str.yodacdn.net/ictimaitele/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LfmZXmD/dman-TV-logo.png", İdman TV
 http://str.yodacdn.net/idmantele/index.m3u8
@@ -16,10 +16,10 @@ http://str.yodacdn.net/idmantele/index.m3u8
 http://str.yodacdn.net/medeniyyettele/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1YxKZSh/785cfca9083712aedfed84b91a0f00e8.png", ATV
-http://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
+https://str.yodacdn.net/atv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1Qrztms/In-Shot-20251103-071346014.png", Space TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+https://str.yodacdn.net/space/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png", KATV1 AZ
 http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/16042/index.m3u8
@@ -28,16 +28,16 @@ http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/16042/index.m3u8
 https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3t3k5Mc.png", Xəzər TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+https://str.yodacdn.net/xazartv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/9/9a/ARB_Media_Qrup.png", ARB TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+https://str.yodacdn.net/arb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mail.arb24.az/assets/uploads/sites/logo_arb24.png", ARB 24
 http://str.yodacdn.net/arb24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/ARB_G%C3%BCn%C9%99%C5%9F_logo.png", ARB Güneş
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+https://str.yodacdn.net/arbgunesh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png", TRT çocukᵀᴿ
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
@@ -121,7 +121,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://85.132.78.122:8050/dashjs/stream/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
-http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
+https://str.yodacdn.net/qafkaz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z92tSK0.png", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
@@ -139,7 +139,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 http://str.yodacdn.net/mtvaz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png?v=2", Naxçıvan TV
-http://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
+http://str.yodacdn.net/ntv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png", Deniz posdasıᵀᴿ
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
