@@ -7,7 +7,7 @@ https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 http://str.yodacdn.net/azertv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wvx7Q5T/ITV-Azerbaijan-Logo.png", İctimai TV
-https://str.yodacdn.net/ictimaitele/index.m3u8
+https://live.itv.az/itv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LfmZXmD/dman-TV-logo.png", İdman TV
 http://str.yodacdn.net/idmantele/index.m3u8
@@ -31,7 +31,7 @@ https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/
 https://str.yodacdn.net/xazartv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/9/9a/ARB_Media_Qrup.png", ARB TV
-https://str.yodacdn.net/arb/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
 
 #EXTINF:-1 tvg-logo="https://mail.arb24.az/assets/uploads/sites/logo_arb24.png", ARB 24
 http://str.yodacdn.net/arb24/index.m3u8
