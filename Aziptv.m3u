@@ -172,7 +172,7 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 https://stream.ftv.az/live/ftv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKqeMvf.png", Retro TV
-https://live20.bozztv.com/akamaissh101/ssh101/mega022/playlist.m3u8
+http://146.59.93.251/11452/index.m3u8?token=B0CD410F7837
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hU0AnaL.png", ses tv
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
