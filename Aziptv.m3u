@@ -60,9 +60,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcNLCBD5/Real-TV-Azerbaijan-Logo.png", Real TV
 http://str.yodacdn.net/real/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qCk0rqi.png", begen tvᵀᴿ
-https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GUfcCDg.png", Kanal Fᵀᴿ
 https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/kanalf.m3u8
 
@@ -182,15 +179,6 @@ https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BjxGLj7.png", Rihat TV music
 https://catcast.ismailturret.workers.dev/rihattv.m3u8
-
-#EXTINF:-1 tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png", SINEMA TVᵀᴿ
-https://65.108.239.207/sinema/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png", SINEMA AKSIONᵀᴿ
-http://65.108.239.207/sinemaaksiyon/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png", SINEMA AILEᵀᴿ
-https://65.108.239.207/sinemaaile/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5qn3w5s/Cartoon-Network-2010-logo-svg.png",  CARTOON NETWORK HDᵀᴿ
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48943
