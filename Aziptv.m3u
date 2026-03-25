@@ -73,7 +73,7 @@ https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/kanalfcocuk.m3u8
 https://catcast.ismailturret.wo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
-https://catcast.ismailturret.workers.dev/50498.m3u8
+https://tvbox2026.baba-zirvede-az-biz-ismayil -baba.workers.dev/ysmtvmedya.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryx0CpQp/In-Shot-20251006-213447729.png", KuzeyMaxᵀᴿ
 http://75.119.144.48:80/KUZEYMAXHD_STREAM/index.m3u8
@@ -99,8 +99,8 @@ http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png", EL TV
 https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/158M5w7V/1768336784567.png", kanal 65 cinema
-https://raw.githubusercontent.com/BY-KERIMOFF/youtube----m3u/refs/heads/main/streams/kanal-65.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QW0xBp1.png", kanal 65 cinema
+https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZND3n8r.png", kanal 65 komedi
 https://live20.bozztv.com/akamaissh101/ssh101/kanal65komedi/playlist.m3u8
