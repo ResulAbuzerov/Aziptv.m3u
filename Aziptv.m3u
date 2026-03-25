@@ -99,8 +99,11 @@ http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png", EL TV
 https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/158M5w7V/1768336784567.png", kanal 65
-https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/158M5w7V/1768336784567.png", kanal 65 cinema
+https://raw.githubusercontent.com/BY-KERIMOFF/youtube----m3u/refs/heads/main/streams/kanal-65.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZND3n8r.png", kanal 65 komedi
+https://live20.bozztv.com/akamaissh101/ssh101/kanal65komedi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFWP1V8B/1757188084827.png", Play TVᵀᴿ
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
