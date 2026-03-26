@@ -7,7 +7,7 @@ https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 http://str.yodacdn.net/azertv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wvx7Q5T/ITV-Azerbaijan-Logo.png", İctimai TV
-https://live.itv.az/itv.m3u8
+http://str.yodacdn.net/ictimaitele/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LfmZXmD/dman-TV-logo.png", İdman TV
 http://str.yodacdn.net/idmantele/index.m3u8
