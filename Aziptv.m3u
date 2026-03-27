@@ -118,7 +118,7 @@ http://str2.yodacdn.net/kanal35/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png", Kepez TV
-http://85.132.78.122:8050/hls/stream/index.m3u8
+http://85.132.78.122:8050/dashjs/stream/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
 https://str.yodacdn.net/qafkaz/index.m3u8
