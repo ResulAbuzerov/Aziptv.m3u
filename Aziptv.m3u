@@ -198,6 +198,9 @@ http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26092020/banners/39199-5f6f8f433735d.png", Alvin music Tv
 https://catcast.ismailturret.workers.dev/alvinmusic.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yYVPz0L/In-Shot-20260403-220516775.png", Sirius Az film
+https://catcast-tv2.koprulu2.workers.dev/?id=sirius_az_film.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Buğlama tv
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-buglama.m3u8
 
