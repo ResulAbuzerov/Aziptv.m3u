@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kVrjpZe.png", AZ HD 7/24
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/AzTV_%282019%29.png", AzTv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLv6hsRc/GIF-20260405-212748-099.gif", AzTv
 http://str.yodacdn.net/azertv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wvx7Q5T/ITV-Azerbaijan-Logo.png", İctimai TV
