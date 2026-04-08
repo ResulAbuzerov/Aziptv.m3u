@@ -33,7 +33,7 @@ http://flussonic.izone.az:80/xezertv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/9/9a/ARB_Media_Qrup.png", ARB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
 
-#EXTINF:-1 tvg-logo="https://mail.arb24.az/assets/uploads/sites/logo_arb24.png", ARB 24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh0t4bHt/GIF-20260408-180330-448.gif", ARB 24
 http://flussonic.izone.az:80/arb24/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/ARB_G%C3%BCn%C9%99%C5%9F_logo.png", ARB Güneş
