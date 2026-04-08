@@ -63,18 +63,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6phBZ04R/GIF-20260408-024219-879.gif", Real TV
 http://str.yodacdn.net/real/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/OdUSBq.png", Kanal Fᵀᴿ
-https://catcast.ismailturret.workers.dev/50938.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FIeuoBC.png", kanal F yeşilçamᵀᴿ
-https://catcast.ismailturret.workers.dev/50823.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7wMWI2w.png", kanal F çocukᵀᴿ
-https://catcast.ismailturret.workers.dev/50822.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tvw369x.png", kanal F muzikᵀᴿ
-https://catcast.ismailturret.workers.dev/50859.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar12.m3u8
 
