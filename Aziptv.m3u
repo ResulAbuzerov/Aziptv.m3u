@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL23xm2V/1772791065769.png", AZ HD 7/24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lCFwXFa.png", AZ HD 7/24
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf5t5wYV/GIF-20260409-031823-067.gif", AzTv
