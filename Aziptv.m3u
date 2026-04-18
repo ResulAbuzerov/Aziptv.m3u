@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZncJsCF5/GIF-20260418-101524-632.gif", AZ HD 7/24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL23xm2V/1772791065769.png", AZ HD 7/24
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf5t5wYV/GIF-20260409-031823-067.gif", AzTv
@@ -201,16 +201,16 @@ https://catcast.ismailturret.workers.dev/alvinmusic.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yYVPz0L/In-Shot-20260403-220516775.png", Sirius Az film
 https://catcast-tv2.koprulu2.workers.dev/?id=sirius_az_film.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Buğlama tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZncJsCF5/GIF-20260418-101524-632.gif", Buğlama tv
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-buglama.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Retro filim
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZncJsCF5/GIF-20260418-101524-632.gif", Retro filim
 https://raw.githubusercontent.com/BY-KERIMOFF/by_kerimoff_065/refs/heads/main/catcast/by-kerimoff-azeri-retro-filmle.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Komedixana tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZncJsCF5/GIF-20260418-101524-632.gif", Komedixana tv
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-comedyxana.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", AZkomedi tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZncJsCF5/GIF-20260418-101524-632.gif", AZkomedi tv
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-azcomedy.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png", AZfilim tv
