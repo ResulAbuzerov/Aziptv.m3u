@@ -156,6 +156,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan12345/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsRz4Mfp/In-Shot-20251027-110432000.png", TMB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m1CQBN5.png", GemAZ HD
+http://live.smartglwiz.workers.dev/?ID=GemAZ_HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/994dLei.png", GemFilm HD
+http://live.smartglwiz.workers.dev/?ID=GemFilm_HD
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w0Km2FQ.png", Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
 
