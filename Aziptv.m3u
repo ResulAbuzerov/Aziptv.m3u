@@ -222,35 +222,35 @@ https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-ke
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png", AZfilim tv
 https://catcast.ismailturret.workers.dev/azfilim.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934620828/TEBER_STAR1.gif",TEBER STAR1
-https://boztv.koprulu2.workers.dev/teberstar1.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/946912491/HILAL_1.gif" TV1,HİLAL1
+https://live20.bozztv.com/akamaissh101/ssh101/teber1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934620882/TEBER_STAR2.gif",TEBER STAR2
-https://boztv.koprulu2.workers.dev/teberstar2.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945822855/TEBER_STAR.gif" TV1,TEBER STAR
+https://live20.bozztv.com/akamaissh101/ssh101/teber2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/938228997/YESILCAM_STAR.gif",GALA STAR
-https://boztv.koprulu2.workers.dev/teberstar3.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/946451985/CEVIK_TV.gif" TV3,ÇEVİK TV
+https://live20.bozztv.com/akamaissh101/ssh101/teber3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/935828290/TEBER_FLASH.gif",TEBER FLASH TV eğlence
-https://boztv.koprulu2.workers.dev/teberstar4.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="" TV13,TEBER CENNET MTV
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934617747/HBB_TV.gif",HBB TV
-https://boztv.koprulu2.workers.dev/teberstar5.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945142912/AKTIF_TV.gif" TV2,TEBER AKTİF TV
+https://live20.bozztv.com/akamaissh101/ssh101/teber4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934619440/STAR6.gif",DENİZ 6
-https://boztv.koprulu2.workers.dev/teberstar6.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/934617747/HBB_TV.gif" TV5,HBB TV 
+https://live20.bozztv.com/akamaissh101/ssh101/teber5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934617844/PLANET_AXION.gif",EHLİBEYT STAR
-https://boztv.koprulu2.workers.dev/teberstar7.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://cdn.zerocdn.com/945826337/YER_6.gif" TV6,YER 6 
+https://live20.bozztv.com/akamaissh101/ssh101/teber6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934619430/STAR_SAFARI.gif",TEBER STAR SAFARİ
-https://boztv.koprulu2.workers.dev/teberstar8.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945822806/TEBER_MEGA.gif" TV7,TEBER MEGA TV
+https://live20.bozztv.com/akamaissh101/ssh101/teber7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/937077356/Kanal9.gif",KANAL9 çocuk
-https://boztv.koprulu2.workers.dev/teberstar9.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/934619452/TEBER_ON.gif" TV8,TEBER_ON
+https://live20.bozztv.com/akamaissh101/ssh101/teber8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934619452/TEBER_ON.gif",TEBER_ON
-https://boztv.koprulu2.workers.dev/teberstar10.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/934617766/KRAL_TEBER.png" TV9,TEBER KRAL TV 
+https://catcast.ismailturret.workers.dev/50457.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/941244312/TEBER_NOSTALJI.gif",TEBER NOSTALJİ TV
-https://boztv.koprulu2.workers.dev/teberstar11.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945828294/TEBER_FLASH.gif" TV10,TEBER FLASH TV 
+https://live20.bozztv.com/akamaissh101/ssh101/teber9/playlist.m3u8
