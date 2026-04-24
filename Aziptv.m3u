@@ -64,7 +64,10 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://str.yodacdn.net/real/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
-https://boztv.koprulu2.workers.dev/teberstar12.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/946924681/YANSIMA_TV2.gif", YANSIMA SİNEMA 2 HDᵀᴿ
+https://live20.bozztv.com/akamaissh101/ssh101/teberstar12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryx0CpQp/In-Shot-20251006-213447729.png", KuzeyMaxᵀᴿ
 http://75.119.144.48:80/KUZEYMAXHD_STREAM/index.m3u8
