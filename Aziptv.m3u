@@ -147,8 +147,8 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png", Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3kKxrpY.png", İsmayıllı TV
-https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan12345/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWhRqtz.png", İsmayıllı TV
+https://a8.radyotelekom.com.tr:3973/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsRz4Mfp/In-Shot-20251027-110432000.png", TMB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
