@@ -130,7 +130,7 @@ https://cdn4.yayin.com.tr/kntv/video.m3u8
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xYGZ7SD/In-Shot-20251113-210612919.png", Sirius
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+https://raw.githubusercontent.com/Elvin4K/restream/pro4k/1siriustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VAG8ZQ5.png", SDM TVᵀᴿ
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
